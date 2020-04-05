@@ -1,5 +1,7 @@
 # Scheduling_Algorithm_OS
+
 C Program for implementing Scheduling Algorithm
+
 This repository contains program used to implement following problem</b>:
 Sudesh Sharma is a Linux expert who wants to have an online system where he can handle student queries.
 Since there can be multiple requests at any time he wishes to dedicate a fixed amount of time to every request so that everyone gets a fair share of his time.
